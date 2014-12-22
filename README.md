@@ -5,11 +5,11 @@ Coursera Practical Machine Learning project
 
 Files
 
-README.md: this file
-index.Rmd: the project rmarkdown file
-index.md: the generated md file from knit html
-index.html: the generated html from the Rmd
-index_files/figure_html: the png plots
+- README.md: this file
+- index.Rmd: the project rmarkdown file
+- index.md: the generated md file from knit html
+- index.html: the generated html from the Rmd
+- index_files/figure_html: the png plots
 
 Background
 
